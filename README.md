@@ -1,5 +1,10 @@
-The aim of this project is to examine whether the spread of cholera virus can be associated with other factors such as sanitation and access to water, as well as climate indicators such as temperature and precipitation on a global scale.
-In addition, during the course of this project I will: - Create a pipeline to facilitate the retrieval of data from the different sources for each parameter. - Combine data from all parameters into one dataset. – Expand the analysis to identify any visible correlations. Prepare the dataset for the machine learning algorithm. – Evaluate the results of different machine learning algorithms by running them on the data to compare their results.
-Best if opened in a Jupiter Notebook environment and follow the instructions to replicate the same approach.
+The goal of this project is to investigate the potential association between the spread of the cholera virus and various factors, such as sanitation, access to water, and climate indicators (temperature and precipitation) on a global scale. Throughout the course of this project, the following tasks will be accomplished:
 
-Open Sahand_Tahir_Cholera Analysis_Sep2022.ipynb to see description and full code.
+Develop a data retrieval pipeline to streamline the process of gathering data from various sources for each parameter.
+Consolidate data from all parameters into a single dataset.
+Conduct an in-depth analysis to identify any observable correlations.
+Prepare the dataset for machine learning algorithms.
+Evaluate and compare the performance of different machine learning algorithms on the data.
+To get started, it is recommended to open the project in a Jupyter Notebook environment and follow the instructions provided to replicate the approach.
+
+For a detailed description and the complete code, open the Sahand_Tahir_Cholera_Analysis_Sep2022.ipynb file.
